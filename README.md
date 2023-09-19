@@ -1,4 +1,2 @@
 # Population_Change_in_Europe
-A little analysis about different factors interfering in the changes of this continent in the last decades
-We focused on different thing to have a more concise project. 
-The most important thing about this analysis was finding relations between the increase or decrease in the population and different elemnts contributing to the process.
+An initial analysis of various factors influencing the transformations in this continent over recent decades was undertaken. I intentionally narrowed my focus to ensure a more concise project. The primary objective of this analysis was to uncover the relationships between population fluctuations and the diverse elements contributing to these changes. It's important to note that this represents an initial analysis, and I am currently engaged in further exploring the insights uncovered in this preliminary examination. This ongoing work is essential for a comprehensive understanding of the evolving landscape of this continent and its potential implications for the future.
